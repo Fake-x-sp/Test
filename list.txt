@@ -4,5 +4,5 @@ Fruits:
   Orange
   Graps
   Watermelon
-  Avocado
   Apple
+  
