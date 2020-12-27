@@ -1,0 +1,8 @@
+Fruits: 
+  Banana
+  Mango
+  Orange
+  Graps
+  Watermelon
+  Avocado
+  Apple
